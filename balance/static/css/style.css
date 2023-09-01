@@ -1,0 +1,33 @@
+.mytext_style {
+    font-size: 40px;
+    text-align: center;
+    margin: 60px;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.style_a {
+    color: black;
+}
+
+.style_b {
+    color: white;
+}
+.con_b {
+    margin: 100px 0px;
+    width: 711px;
+    height: 640px;
+    float: left;
+    background-color: black;
+}
+
+.con_a {
+    margin: 100px 0px;
+    width: 711px;
+    height: 640px;
+    float: left;
+    background-color: white;
+}
